@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple Python program that creates random passwords.
+Generate secure random passwords with a simple GUI or command-line tool.
 
 ## Run
 
